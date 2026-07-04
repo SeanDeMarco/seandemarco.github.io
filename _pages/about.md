@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![Photo of me climbing](/images/IMG_9958.jpg){: .align-right width="300px"}
+![Photo of me climbing](/images/IMG_9558.jpg){: .align-right width="300px"}
 Hello everyone! I am a PhD candidate at [Imperial College London](https://www.imperial.ac.uk) in the [Earth Science and Engineering department](https://www.imperial.ac.uk/earth-science/) being supervised by [Dr. Ben Moseley](https://benmoseley.blog) and am a researcher at [Imperial's Scalable Scientific Machine Learning Lab](https://scalable-sciml-lab.org). I am a Machine Learning (ML) researcher focusing on bridging the gap between numerical methods and scientific ML for solving PDEs. I have a particular interest in how the world around us can be modelled accurately and efficiently. Currently I am working on improving ML-based methods to solve large, multi-scale tasks by combining them with numerical methods.   
 
 # About Me
