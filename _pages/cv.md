@@ -9,56 +9,71 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+# Sean De Marco
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+**Scientific Machine Learning Researcher · Mechanical Engineer · Fluid Dynamicist**
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Email: [sean.demarco.02@gmail.com](mailto:sean.demarco.02@gmail.com)  
+[GitHub](https://github.com/SeanDeMarco) · [LinkedIn](https://linkedin.com/in/sean-de-marco/)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Summary
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Scientific machine learning researcher with a background in mechancial engineering and computational aeronautics. Interested in developing mathematical and computational methods for scientific modelling, with particular emphasis on numerical methods, physics-informed machine learning and complex dynamical systems.
+
+## Research Interests
+
+Scientific Machine Learning · Physics-Informed Machine Learning · Numerical Analysis · Numerical PDEs · Finite Element Methods · Computational Fluid Dynamics · Data-Driven Modelling · Dynamical Systems · Numerical Linear Algebra
+
+## Education
+
+**2026 – 2030 (expected)**  
+**Ph.D. in Applied Mathematics and Scientific Machine Learning**  
+Imperial College London  
+Research Lab: [Scalable SciML Lab](https://scalable-sciml-lab.org)
+
+**2024 – 2025**  
+**[M.Sc. in Advanced Computational Methods for Aeronautics, Flow Management and Fluid-Structure Interaction][https://www.imperial.ac.uk/study/courses/postgraduate-taught/computational-methods/]**  
+Imperial College London  
+
+**2020 – 2024**  
+**B.Eng. (Hons.) in Mechanical Engineering — focus in Applied Mechanics and Thermofluids**  
+University of Malta  
+
+## Some Research Projects
+
+**Convergence and Improves Accuracy in Domain-Decomposed Physics-Informed Neural Networks**
+*Representations for Physical Sciences Workshop · NeurIPS 2026 Workshop*
+
+More on this coming shortly :D
+
+[Workshop Paper][https://representations-physical-sciences.github.io/workshop-2026/papers/paper-44.html]
+
+**Formalising the Equivalence of Physics-Informed Neural Networks, Extreme Learning Machines and the Finite Element Method**  
+*M.Sc. Research · Imperial College London*
+
+For further information, look at mine and Lloyd's blog posts [here][https://llfung.github.io/blog/]
+
+[GitHub Repository](https://github.com/SeanDeMarco/Physics-Informed-Extreme-Learning-Machines)
+
+**Aerodynamic Modelling of Lifting Surfaces**  
+*B.Eng. Research · University of Malta*
+
+Developed an in-house computational aerodynamic modelling framework based on the Vortex Lattice Method.
+
+[GitHub Repository](https://github.com/SeanDeMarco/SDMVLM)
+
+## Professional Experience
+
+**October 2023 – September 2024**  
+**Propulsion Engineer · [UM Rocketry][https://www.umrocketry.org.mt]**
+
+**July 2023 – September 2023**  
+**Engineering Intern · [Altern Ltd][https://www.altern.mt]**
+
+**October 2021 – June 2022**  
+**Engineering Intern · [Falzon Group][https://www.falzongroup.com]**
+
+## Additional Information
+
+**Languages**  
+English (Native) · Maltese (Native) · German (B1) · French (Learning :D)
