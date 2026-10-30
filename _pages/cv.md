@@ -32,7 +32,7 @@ Imperial College London
 Research Lab: [Scalable SciML Lab](https://scalable-sciml-lab.org)
 
 **2024 – 2025**  
-**[M.Sc. in Advanced Computational Methods for Aeronautics, Flow Management and Fluid-Structure Interaction][https://www.imperial.ac.uk/study/courses/postgraduate-taught/computational-methods/]**  
+**[M.Sc. in Advanced Computational Methods for Aeronautics, Flow Management and Fluid-Structure Interaction](https://www.imperial.ac.uk/study/courses/postgraduate-taught/computational-methods/)**  
 Imperial College London  
 
 **2020 – 2024**  
@@ -46,12 +46,12 @@ University of Malta
 
 More on this coming shortly :D
 
-[Workshop Paper][https://representations-physical-sciences.github.io/workshop-2026/papers/paper-44.html]
+[Workshop Paper](https://representations-physical-sciences.github.io/workshop-2026/papers/paper-44.html)
 
 **Formalising the Equivalence of Physics-Informed Neural Networks, Extreme Learning Machines and the Finite Element Method**  
 *M.Sc. Research · Imperial College London*
 
-For further information, look at mine and Lloyd's blog posts [here][https://llfung.github.io/blog/]
+For further information, look at mine and Lloyd's blog posts [here](https://llfung.github.io/blog/)
 
 [GitHub Repository](https://github.com/SeanDeMarco/Physics-Informed-Extreme-Learning-Machines)
 
@@ -65,13 +65,13 @@ Developed an in-house computational aerodynamic modelling framework based on the
 ## Professional Experience
 
 **October 2023 – September 2024**  
-**Propulsion Engineer · [UM Rocketry][https://www.umrocketry.org.mt]**
+**Propulsion Engineer · [UM Rocketry](https://www.umrocketry.org.mt)**
 
 **July 2023 – September 2023**  
-**Engineering Intern · [Altern Ltd][https://www.altern.mt]**
+**Engineering Intern · [Altern Ltd](https://www.altern.mt)**
 
 **October 2021 – June 2022**  
-**Engineering Intern · [Falzon Group][https://www.falzongroup.com]**
+**Engineering Intern · [Falzon Group](https://www.falzongroup.com)**
 
 ## Additional Information
 
