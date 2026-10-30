@@ -13,7 +13,7 @@ redirect_from:
 
 **Scientific Machine Learning Researcher · Mechanical Engineer · Fluid Dynamicist**
 
-Email: [sean.demarco.02@gmail.com](mailto:sean.demarco.02@gmail.com)  
+[Email](sean.de-marco24@imperial.ac.uk])  
 [GitHub](https://github.com/SeanDeMarco) · [LinkedIn](https://linkedin.com/in/sean-de-marco/)
 
 ## Summary
